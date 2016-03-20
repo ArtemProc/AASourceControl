@@ -1,2 +1,3 @@
 Ping ContosoTestBox
-write-output hostname
+$test = hostname
+write-output $test
